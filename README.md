@@ -3,7 +3,7 @@
 
 [![cpallapolu's GitHub stats](https://github-readme-stats.vercel.app/api?username=cpallapolu&count_private=true&theme=prussian&show_icons=true)](https://github.com/cpallapolu)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cpallapolu&theme=prussian&layout=compact)](https://github.com/cpallapolu)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cpallapolu&theme=prussian&layout=compact&langs_count=10&count_private=true)](https://github.com/cpallapolu)
   
 <!--
 **cpallapolu/cpallapolu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
