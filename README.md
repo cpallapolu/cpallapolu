@@ -1,7 +1,7 @@
 ### Hi there 👋
 <!-- ![Profile View Counter](https://komarev.com/ghpvc/?username=cpallapolu) -->
 
-<!-- ![cpallapolu's GitHub stats](https://github-readme-stats.vercel.app/api?username=cpallapolu) -->
+![cpallapolu's GitHub stats](https://github-readme-stats.vercel.app/api?username=cpallapolu)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cpallapolu)
  
