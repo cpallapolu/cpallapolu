@@ -1,9 +1,9 @@
 ### Hi there 👋
 <!-- ![Profile View Counter](https://komarev.com/ghpvc/?username=cpallapolu) -->
 
-![cpallapolu's GitHub stats](https://github-readme-stats.vercel.app/api?username=cpallapolu)
+![cpallapolu's GitHub stats](https://github-readme-stats.vercel.app/api?username=cpallapolu&count_private=true&theme=prussian&show_icons=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cpallapolu)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cpallapolu&theme=prussian&layout=compact)
  
  
 <!--
